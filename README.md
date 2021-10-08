@@ -4,6 +4,9 @@
   <h1>👽TeeenuhX⚡</h1>
 </div>
 
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/xneon2/Hashzi-X&title=Profile%20Views)
+
+----
 ### Hi there, I'm Teenuh-X [TeenuhX][website] 👋
 
 [![Website](https://img.shields.io/website?label=TeenuhX.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://TeenuhX.com)
